@@ -1,4 +1,4 @@
-# Hello, I am a software engineer from Virginia.
+# Hello 👋, I am a software engineer from Virginia.
 
 I work with a wide range of technologies from typescript & node.js to Go.
 
